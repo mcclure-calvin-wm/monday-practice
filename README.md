@@ -1,2 +1,2 @@
-# practice1
+# monday-practice
 practice repo with html
